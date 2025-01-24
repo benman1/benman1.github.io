@@ -35,18 +35,7 @@
       transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg); 
     } 
   }
-  
-  
-  /*  Chase
-        <div class="sk-chase">
-          <div class="sk-chase-dot"></div>
-          <div class="sk-chase-dot"></div>
-          <div class="sk-chase-dot"></div>
-          <div class="sk-chase-dot"></div>
-          <div class="sk-chase-dot"></div>
-          <div class="sk-chase-dot"></div>
-        </div>
-   */
+
   .sk-chase {
     width: var(--sk-size);
     height: var(--sk-size);
@@ -101,14 +90,7 @@
       transform: scale(1.0); 
     } 
   }
-  
-  
-  /*  Bounce
-        <div class="sk-bounce">
-          <div class="sk-bounce-dot"></div>
-          <div class="sk-bounce-dot"></div>
-        </div>
-    */
+
   .sk-bounce {
     width: var(--sk-size);
     height: var(--sk-size);
@@ -174,11 +156,7 @@
       transform: scaleY(1); 
     } 
   }
-  
-  
-  /*  Pulse
-        <div class="sk-pulse"></div>
-   */
+
   .sk-pulse {
     width: var(--sk-size);
     height: var(--sk-size);
@@ -197,13 +175,6 @@
   }
   
   
-  /*  Flow
-        <div class="sk-flow">
-          <div class="sk-flow-dot"></div>
-          <div class="sk-flow-dot"></div>
-          <div class="sk-flow-dot"></div>
-        </div>
-   */
   .sk-flow {
     width: calc(var(--sk-size) * 1.3);
     height: calc(var(--sk-size) * 1.3);
@@ -231,12 +202,6 @@
   }
   
   
-  /*  Swing
-        <div class="sk-swing">
-          <div class="sk-swing-dot"></div>
-          <div class="sk-swing-dot"></div>
-        </div>
-   */
   .sk-swing {
     width: var(--sk-size);
     height: var(--sk-size);
