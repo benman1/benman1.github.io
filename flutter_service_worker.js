@@ -31,11 +31,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "fc274c4281cdf1f0d41b1923702ac161
 "canvaskit/skwasm.wasm": "828c26a0b1cc8eb1adacbdd0c5e8bcfa",
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
-"flutter_bootstrap.js": "fb36ea7d9d782087a050eb74f6657363",
+"flutter_bootstrap.js": "5e8b5691e63b7e66573ee9fa33b904fd",
 "icons/android-icon-192x192.png": "c37511353ab5715d9221e47712d66d78",
 "icons/apple-icon-114x114.png": "a84263ad866a10d8e05562425b791181",
 "icons/apple-icon-57x57.png": "98bc952356ca87a192a626923268c152",
-"icons/browserconfig.xml": "1688efb051cf5c8aafb5ad52bbe32229",
+"icons/browserconfig.xml": "7aae2027fb8bbab4b51a6c1c817d9dc1",
 "icons/favicon-32x32.png": "144330aae1549d21de2009c10e9a6757",
 "icons/favicon-96x96.png": "5c0285fcb5328736b180cdfb8d5558aa",
 "icons/favicon.ico": "811ae832574d8bf53de138a6e571f8d6",
@@ -53,7 +53,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "fc274c4281cdf1f0d41b1923702ac161
 "main.dart.js_7.part.js": "19aeb168e1191e026b0c259a612d9bab",
 "main.dart.js_8.part.js": "1aa405ff59c3baf27e0f208beae70dd4",
 "main.dart.js_9.part.js": "3485dfcc7d2a42411221bdb4425282f1",
-"manifest.json": "3c561367b1a68df2186172ed1ef14075",
+"manifest.json": "68cf051e153c1300b042218000bdf372",
 "spinkit.css": "18c98bc7304f9a8b0cbd7c9eb64baa2c",
 "version.json": "2e5718ddc601847d341ce2c7a7f54a49"};
 // The application shell files that are downloaded before a service worker can
