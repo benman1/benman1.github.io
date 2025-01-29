@@ -26,7 +26,7 @@ abU:function abU(d,e){this.a=d
 this.b=e},
 AH:function AH(){},
 atI(){return new A.uz(null)},
-amT(d,e){var x=null,w=B.a([B.cq(d,B.bD(x,x,C.fF,x,x,x,x,x,x,x,x,18,x,x,C.cS,x,x,!0,x,x,x,x,x,x,x,x)),B.ce(x,16,x)],y.e)
+amU(d,e){var x=null,w=B.a([B.cq(d,B.bD(x,x,C.fF,x,x,x,x,x,x,x,x,18,x,x,C.cS,x,x,!0,x,x,x,x,x,x,x,x)),B.ce(x,16,x)],y.e)
 C.b.I(w,new B.ah(e,new A.act(),B.a1(e).h("ah<1,h>")))
 return B.c_(w,C.S,C.x,C.B)},
 uz:function uz(d){this.a=d},
@@ -95,7 +95,7 @@ x.a.push(new A.abX(v))},
 m(){var x=this.e
 x===$&&B.b()
 x.m()
-this.Qu()},
+this.Qt()},
 H(d){var x=null,w=B.bi(d,x,y.h).w,v=this.d
 return B.d2(x,v==null?x:B.lM(v,new A.abU(this,!(w.a.a>=900)),x),C.t,x,x,x,x,x,x,x,x,x,x)}}
 A.AH.prototype={
@@ -115,21 +115,21 @@ H(d){return new E.kG(B.c_(B.a([new A.ux(null),new A.uQ(null)],y.e),C.S,C.x,C.B),
 A.uQ.prototype={
 a9(){return new A.KU()}}
 A.KU.prototype={
-H(d){var x,w,v,u=null,t=B.bi(d,u,y.h).w.a.a>=900,s=y.e,r=B.a([this.Rw(t)],s)
-r.push(this.Rp(t))
+H(d){var x,w,v,u=null,t=B.bi(d,u,y.h).w.a.a>=900,s=y.e,r=B.a([this.Rv(t)],s)
+r.push(this.Ro(t))
 x=y.m
 w=B.a([new A.fe(D.DW,"AI strategy development","Develop comprehensive AI strategies aligned with business goals"),new A.fe(D.DU,"ML system architecture","Design scalable machine learning system architectures"),new A.fe(D.E0,"Team setup and best practices","Establish efficient ML teams and development workflows"),new A.fe(D.DZ,"Technical due diligence","Evaluate AI/ML systems and tech stacks")],x)
 v=B.a([new A.fe(D.DV,"Corporate ML/AI workshops","Hands-on workshops tailored to your team's needs"),new A.fe(D.E_,"Team upskilling programs","Structured learning paths for ML/AI competency"),new A.fe(D.DT,"Technical mentoring","One-on-one guidance for ML practitioners"),new A.fe(D.DY,"Conference speaking","Expert presentations on ML/AI topics")],x)
-r.push(B.c_(B.a([A.amT("Consultancy:",w),B.ce(u,24,u),A.amT("Training & Education:",v)],s),C.S,C.x,C.B))
+r.push(B.c_(B.a([A.amU("Consultancy:",w),B.ce(u,24,u),A.amU("Training & Education:",v)],s),C.S,C.x,C.B))
 C.b.I(r,B.a([B.ce(u,30,u),new A.yj(u)],s))
 return B.c_(r,C.S,C.x,C.B)},
-Rw(d){var x,w=this,v=null,u=$.ah6,t=w.d,s=y.e
+Rv(d){var x,w=this,v=null,u=$.ah6,t=w.d,s=y.e
 t=B.a([A.agg("Hey! I'm "+u,!t,new A.a9o(w),B.bD(v,v,C.y,v,v,v,v,v,v,v,v,d?22:14,v,v,C.aw,v,v,!0,v,v,v,v,v,v,v,v))],s)
 u=B.ce(v,16,v)
 x=w.f
 C.b.I(t,B.a([u,A.agg("Experienced Data Science Leader",!x,new A.a9p(w),B.bD(v,v,C.fF,v,v,v,v,v,v,v,v,d?24:20,v,v,C.G,v,v,!0,v,v,v,v,v,v,v,v))],s))
 return B.c_(t,C.S,C.x,C.B)},
-Rp(d){var x=null
+Ro(d){var x=null
 return B.c_(B.a([B.ce(x,24,x),A.agg("I deliver transformational AI solutions with measurable business impact, for example:\n\n\u2022 Built large-scale fraud detection systems saving millions in prevented losses\n\u2022 Developed real-time decision engine processing 100k+ daily leads at <300ms\n\u2022 Achieved 15% ROI improvement through ML-driven marketing optimization\n\nAs the author of bestselling books on GenAI and ML implementation, I combine deep technical expertise with real-world business understanding.\n\n",!this.r,new A.a9l(this),B.bD(x,x,C.fA,x,x,x,x,x,x,x,x,16,x,x,x,x,1.5,!0,x,1.2,x,x,x,x,x,x))],y.e),C.S,C.x,C.B)}}
 A.fe.prototype={}
 A.yj.prototype={
@@ -148,7 +148,7 @@ else x=u>768?250:200
 w=this.d?1:0
 v=B.cd(0,250)
 this.a.toString
-return F.ai8(B.uD("assets/images/logo/logo.png",C.i,null,x,x),v,w)}}
+return F.ai9(B.uD("assets/images/logo/logo.png",C.i,null,x,x),v,w)}}
 var z=a.updateTypes(["h(fe)"])
 A.abW.prototype={
 $0(){this.a.af(new A.abV())},
@@ -195,7 +195,7 @@ x.Q=x.r=!0},
 $S:0}
 A.act.prototype={
 $1(d){var x=null
-return B.alG(new B.cy(new B.aK(0,8,0,8),B.fI(B.a([B.i_(d.a,C.y,x,24),B.ce(x,x,12),B.Dk(B.cq(d.b,B.bD(x,x,C.ym,x,x,x,x,x,x,x,x,16,x,x,x,x,1.5,!0,x,x,x,x,x,x,x,x)))],y.e),C.K,C.x,C.B),x),d.c)},
+return B.alH(new B.cy(new B.aK(0,8,0,8),B.fI(B.a([B.i_(d.a,C.y,x,24),B.ce(x,x,12),B.Dk(B.cq(d.b,B.bD(x,x,C.ym,x,x,x,x,x,x,x,x,16,x,x,x,x,1.5,!0,x,x,x,x,x,x,x,x)))],y.e),C.K,C.x,C.B),x),d.c)},
 $S:z+0}
 A.a8a.prototype={
 $1(d){var x=this.a
@@ -221,7 +221,7 @@ $S:35}
 A.a8X.prototype={
 $0(){return this.a.d=!0},
 $S:0};(function aliases(){var x=A.AH.prototype
-x.Qu=x.m})();(function inheritance(){var x=a.mixinHard,w=a.inherit,v=a.inheritMany
+x.Qt=x.m})();(function inheritance(){var x=a.mixinHard,w=a.inherit,v=a.inheritMany
 w(A.x5,B.as)
 w(A.hd,B.ev)
 v(B.Z,[A.xB,A.uz,A.uQ,A.yj,A.ux])
@@ -243,4 +243,4 @@ D.DZ=new A.hd(62637,"Lucide","lucide_icons",!1)
 D.E_=new A.hd(62796,"Lucide","lucide_icons",!1)
 D.E0=new A.hd(62836,"Lucide","lucide_icons",!1)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"QP6njtWTeZ1VX8ZMURraJG+Icpw=");
+a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"DA0f50xyi5OqBsj4a8zlZ0rcvBU=");
