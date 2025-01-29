@@ -1,38 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <!-- Google Tag Manager async loading -->
+  <!-- Google Tag Manager -->
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+
+    // Default consent state - analytics denied until user chooses
+    gtag('consent', 'default', {
+      'analytics_storage': 'denied',
+      'wait_for_update': 500
+    });
+  </script>
   <script async>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WBWGQHHZ');</script>
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WBWGQHHZ');</script>
   <!-- End Google Tag Manager -->
+
   <base href="/">
   <meta charset="UTF-8">
+
+  <!-- Security Headers -->
+  <meta http-equiv="X-Content-Type-Options" content="nosniff">
+  <meta http-equiv="X-Frame-Options" content="SAMEORIGIN">
+  <meta http-equiv="Permissions-Policy" content="interest-cohort=()">
   <meta http-equiv="Cache-Control" content="max-age=86400, public">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <!-- Performance optimizations -->
+  <!-- Performance Optimizations -->
+  <link rel="preconnect" href="https://www.googletagmanager.com">
+  <link rel="preconnect" href="https://www.google-analytics.com">
   <link rel="preload" href="main.dart.js" as="script">
+  <link rel="preload" href="spinkit.css" as="style">
   <link rel="dns-prefetch" href="https://benauffarth.com">
 
-  <!-- SEO -->
-  <title>Ben Auffarth</title>
-  <meta name="description" content="Experienced AI and ML Leader">
-  <meta name="keywords" content="Ben Auffarth, Auffarth, Benjamin Auffarth, Benjamin J Auffarth, LLM, contracting, tech consulting, tech advisory">
+  <!-- SEO Improvements -->
+  <title>Ben Auffarth - AI and ML Leader</title>
+  <meta name="description" content="AI and Machine Learning expert specializing in LLMs, tech consulting, and advisory services. Author and experienced tech leader based in London.">
+  <meta name="keywords" content="Ben Auffarth, Auffarth, Benjamin Auffarth, Benjamin J Auffarth, LLM, contracting, tech consulting, tech advisory, AI consulting London, ML expert">
   <meta name="author" content="Ben Auffarth">
 
-  <!-- Social Media -->
-  <meta property="og:title" content="Ben Auffarth">
+  <!-- Enhanced Social Media Tags -->
+  <meta property="og:title" content="Ben Auffarth - AI and ML Leader">
   <meta property="og:site_name" content="Ben Auffarth">
-  <meta property="og:description" content="Ben Auffarth's website.">
+  <meta property="og:description" content="AI and Machine Learning expert specializing in LLMs, tech consulting, and advisory services.">
   <meta property="og:url" content="https://benauffarth.com/">
   <meta property="og:type" content="website">
   <meta name="twitter:site" content="@benji1a">
+  <meta name="twitter:card" content="summary">
 
   <!-- PWA -->
   <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   <meta name="apple-mobile-web-app-title" content="Ben Auffarth">
   <meta name="theme-color" content="#ffffff">
@@ -58,6 +79,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       min-height: 100vh;
       margin: 0;
     }
+    /* Add some basic fallback styles */
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #ffffff;
+    }
   </style>
 </head>
 <body>
@@ -74,6 +101,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="sk-fold-cube"></div>
   </div>
 </div>
+
+<!-- Add loading error handling -->
+<script>
+  window.addEventListener('error', function(e) {
+    if (e.target.tagName === 'SCRIPT') {
+      console.error('Script loading failed:', e.target.src);
+    }
+  });
+</script>
+
 <script defer src="main.dart.js"></script>
 </body>
 </html>
