@@ -95,7 +95,7 @@ x.a.push(new A.abW(v))},
 m(){var x=this.e
 x===$&&B.b()
 x.m()
-this.Qt()},
+this.Qu()},
 H(d){var x=null,w=B.bi(d,x,y.h).w,v=this.d
 return B.d2(x,v==null?x:B.lM(v,new A.abT(this,!(w.a.a>=900)),x),C.t,x,x,x,x,x,x,x,x,x,x)}}
 A.AH.prototype={
@@ -115,28 +115,28 @@ H(d){return new E.kG(B.c_(B.a([new A.ux(null),new A.uQ(null)],y.e),C.S,C.x,C.B),
 A.uQ.prototype={
 a9(){return new A.KU()}}
 A.KU.prototype={
-H(d){var x,w,v,u=null,t=B.bi(d,u,y.h).w.a.a>=900,s=y.e,r=B.a([this.Rv(t)],s)
-r.push(this.Ro(t))
+H(d){var x,w,v,u=null,t=B.bi(d,u,y.h).w.a.a>=900,s=y.e,r=B.a([this.Rw(t)],s)
+r.push(this.Rp(t))
 x=y.m
 w=B.a([new A.fe(D.DW,"AI strategy development","Develop comprehensive AI strategies aligned with business goals"),new A.fe(D.DU,"ML system architecture","Design scalable machine learning system architectures"),new A.fe(D.E0,"Team setup and best practices","Establish efficient ML teams and development workflows"),new A.fe(D.DZ,"Technical due diligence","Evaluate AI/ML systems and tech stacks")],x)
 v=B.a([new A.fe(D.DV,"Corporate ML/AI workshops","Hands-on workshops tailored to your team's needs"),new A.fe(D.E_,"Team upskilling programs","Structured learning paths for ML/AI competency"),new A.fe(D.DT,"Technical mentoring","One-on-one guidance for ML practitioners"),new A.fe(D.DY,"Conference speaking","Expert presentations on ML/AI topics")],x)
 r.push(B.c_(B.a([A.amT("Consultancy:",w),B.ce(u,24,u),A.amT("Training & Education:",v)],s),C.S,C.x,C.B))
 C.b.I(r,B.a([B.ce(u,30,u),new A.yj(u)],s))
 return B.c_(r,C.S,C.x,C.B)},
-Rv(d){var x,w=this,v=null,u=$.ah5,t=w.d,s=y.e
+Rw(d){var x,w=this,v=null,u=$.ah5,t=w.d,s=y.e
 t=B.a([A.agf("Hey! I'm "+u,!t,new A.a9n(w),B.bD(v,v,C.y,v,v,v,v,v,v,v,v,d?22:14,v,v,C.aw,v,v,!0,v,v,v,v,v,v,v,v))],s)
 u=B.ce(v,16,v)
 x=w.f
 C.b.I(t,B.a([u,A.agf("Experienced Data Science Leader",!x,new A.a9o(w),B.bD(v,v,C.fF,v,v,v,v,v,v,v,v,d?24:20,v,v,C.G,v,v,!0,v,v,v,v,v,v,v,v))],s))
 return B.c_(t,C.S,C.x,C.B)},
-Ro(d){var x=null
+Rp(d){var x=null
 return B.c_(B.a([B.ce(x,24,x),A.agf("I deliver transformational AI solutions with measurable business impact, for example:\n\n\u2022 Built large-scale fraud detection systems saving millions in prevented losses\n\u2022 Developed real-time decision engine processing 100k+ daily leads at <300ms\n\u2022 Achieved 15% ROI improvement through ML-driven marketing optimization\n\nAs the author of bestselling books on GenAI and ML implementation, I combine deep technical expertise with real-world business understanding.\n\n",!this.r,new A.a9k(this),B.bD(x,x,C.fA,x,x,x,x,x,x,x,x,16,x,x,x,x,1.5,!0,x,1.2,x,x,x,x,x,x))],y.e),C.S,C.x,C.B)}}
 A.fe.prototype={}
 A.yj.prototype={
 a9(){return new A.JX()}}
 A.JX.prototype={
 H(d){var x=null,w=B.cd(0,200),v=this.d,u=v?C.y:C.u,t=B.Rq(C.y,2),s=B.k5(30),r=B.i_(D.DX,v?C.i:C.y,x,20),q=B.ce(x,x,8)
-return B.n0(B.ml(x,B.rF(B.fI(B.a([r,q,B.cq("Let's Talk!",B.bD(x,x,v?C.i:C.y,x,x,x,x,x,x,x,x,16,x,x,C.cS,x,x,!0,x,x,x,x,x,x,x,x))],y.e),C.K,C.x,C.bi),x,x,C.a3,new B.cn(u,x,t,s,x,x,C.ab),w,x,x,new B.aK(32,16,32,16),x),C.av,!1,x,x,x,x,x,x,x,x,x,x,x,x,new A.a89(),x,x,x),C.bC,new A.a8a(this),new A.a8b(this),x)}}
+return B.n0(B.ml(x,B.rF(B.fI(B.a([r,q,B.cq("Let's Talk!",B.bD(x,x,v?C.i:C.y,x,x,x,x,x,x,x,x,16,x,x,C.cS,x,x,!0,x,x,x,x,x,x,x,x))],y.e),C.K,C.x,C.bj),x,x,C.a3,new B.cn(u,x,t,s,x,x,C.ab),w,x,x,new B.aK(32,16,32,16),x),C.av,!1,x,x,x,x,x,x,x,x,x,x,x,x,new A.a89(),x,x,x),C.bC,new A.a8a(this),new A.a8b(this),x)}}
 A.ux.prototype={
 a9(){return new A.Ky()}}
 A.Ky.prototype={
@@ -221,9 +221,9 @@ $S:35}
 A.a8W.prototype={
 $0(){return this.a.d=!0},
 $S:0};(function aliases(){var x=A.AH.prototype
-x.Qt=x.m})();(function inheritance(){var x=a.mixinHard,w=a.inherit,v=a.inheritMany
+x.Qu=x.m})();(function inheritance(){var x=a.mixinHard,w=a.inherit,v=a.inheritMany
 w(A.x5,B.as)
-w(A.hd,B.ev)
+w(A.hd,B.ew)
 v(B.Z,[A.xB,A.uz,A.uQ,A.yj,A.ux])
 v(B.a9,[A.AH,A.KD,A.KU,A.JX,A.Ky])
 w(A.OK,A.AH)
@@ -243,4 +243,4 @@ D.DZ=new A.hd(62637,"Lucide","lucide_icons",!1)
 D.E_=new A.hd(62796,"Lucide","lucide_icons",!1)
 D.E0=new A.hd(62836,"Lucide","lucide_icons",!1)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"S33e+M9yXA0lUD24+0/uQAKiUmo=");
+a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"xrFs4U6aQXPukXVddRwIlSlpB9I=");
