@@ -2,21 +2,22 @@
 <html lang="en">
 <head>
   <!-- Google Tag Manager -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-24LJX7YDWW"></script>
   <script>
+    // Initialize dataLayer first
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
-    // Default consent state - analytics denied until user chooses
+    // Default consent state
     gtag('consent', 'default', {
       'analytics_storage': 'denied',
-      'wait_for_update': 500
+      'wait_for_update': 1000
     });
 
     // Initialize GA4
     gtag('config', 'G-24LJX7YDWW');
   </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-24LJX7YDWW"></script>
   <!-- End Google Tag Manager -->
 
   <base href="/">
