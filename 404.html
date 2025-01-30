@@ -5,13 +5,20 @@
     <title>Redirecting...</title>
     <script>
         (function() {
+            // Debug logging
+            console.log('Current pathname:', window.location.pathname);
+
             // Get the path without leading slash
             const path = window.location.pathname.replace(/^\/+/, '');
+            console.log('Cleaned path:', path);
 
-            // Only redirect if we're not already at the root
+            // Only redirect if we're not already at the root and path exists
             if (path) {
-                // Always redirect to root with the path as a parameter
-                window.location.href = window.location.origin + '/#/' + path;
+                const redirectUrl = window.location.origin + '/#/' + path;
+                console.log('Redirecting to:', redirectUrl);
+                window.location.href = redirectUrl;
+            } else {
+                console.log('No path to redirect to');
             }
         })();
     </script>
@@ -55,6 +62,13 @@
     <h1>Just a moment...</h1>
     <div class="loading"></div>
     <p class="redirect-text">Redirecting you to the right place</p>
+    <p id="debug" style="font-size: 12px; color: #999;"></p>
 </div>
+
+<script>
+    // Show the path we're redirecting from
+    document.getElementById('debug').textContent =
+        'Current path: ' + window.location.pathname;
+</script>
 </body>
 </html>
