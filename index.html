@@ -2,26 +2,14 @@
 <html lang="en">
 <head>
   <!-- Google Tag Manager -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-24LJX7YDWW"></script>
   <script>
-    // Initialize dataLayer first - MUST BE BEFORE GA4 SCRIPT
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
-  </script>
-
-  <!-- Load GA4 script - NO async -->
-  <script src="https://www.googletagmanager.com/gtag/js?id=G-24LJX7YDWW"></script>
-
-  <!-- Initialize GA4 - AFTER script load -->
-  <script>
     gtag('js', new Date());
-
-    // Default consent state
-    gtag('consent', 'default', {
-      'analytics_storage': 'denied'
+    gtag('config', 'G-24LJX7YDWW', {
+      send_page_view: false
     });
-
-    // Initialize GA4
-    gtag('config', 'G-24LJX7YDWW');
   </script>
   <!-- End Google Tag Manager -->
 
