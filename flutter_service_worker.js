@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "fc274c4281cdf1f0d41b1923702ac161",
+const RESOURCES = {"404.html": "b85652277ac1ed752b14e331996e011e",
+"assets/AssetManifest.bin": "fc274c4281cdf1f0d41b1923702ac161",
 "assets/AssetManifest.bin.json": "732c31a0ef83ec3337b520c5034c9ea1",
 "assets/AssetManifest.json": "9eb4e63f1c1abbc4de50ca8a7d130f6b",
 "assets/assets/fonts/MySocialIcons.ttf": "226afb1589c1f09bd147e99d3cb485d9",
@@ -31,7 +32,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "fc274c4281cdf1f0d41b1923702ac161
 "canvaskit/skwasm.wasm": "828c26a0b1cc8eb1adacbdd0c5e8bcfa",
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
-"flutter_bootstrap.js": "6f9a7c31de387c2a7dc0a14f06ba2d30",
+"flutter_bootstrap.js": "b7a91fdf84a57a7d044298f4da96f700",
 "icons/android-icon-192x192.png": "c37511353ab5715d9221e47712d66d78",
 "icons/apple-icon-114x114.png": "a84263ad866a10d8e05562425b791181",
 "icons/apple-icon-57x57.png": "98bc952356ca87a192a626923268c152",
@@ -40,8 +41,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "fc274c4281cdf1f0d41b1923702ac161
 "icons/favicon-96x96.png": "5c0285fcb5328736b180cdfb8d5558aa",
 "icons/favicon.ico": "811ae832574d8bf53de138a6e571f8d6",
 "icons/ms-icon-96x96.png": "3ce61e7274bcc0f41b70d8798c74c4fd",
-"index.html": "3623aeaab98bd8894d8ae2032655ad61",
-"/": "3623aeaab98bd8894d8ae2032655ad61",
+"index.html": "b733bb71e34c2b096291b26968314f1a",
+"/": "b733bb71e34c2b096291b26968314f1a",
 "main.dart.js": "b5d37c6dab76a7ea301d701960efe691",
 "main.dart.js_1.part.js": "f97e9ab4b0de0218587e232cd34886bb",
 "main.dart.js_2.part.js": "d01283fdd9f7c23047581c3944ec30b6",
