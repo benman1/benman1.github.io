@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Redirecting...</title>
+    <script>
+        // Get the full path including search params and hash
+        const fullPath = window.location.pathname + window.location.search + window.location.hash;
+
+        // Remove any leading slashes for cleaner URL
+        const cleanPath = fullPath.replace(/^\/+/, '');
+
+        // Construct the redirect URL
+        const redirectUrl = window.location.origin +
+            (cleanPath ? '/' + cleanPath : '');
+
+        // Perform the redirect
+        window.location.href = redirectUrl;
+    </script>
+    <style>
+        body {
+            font-family: 'Ubuntu', sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #ffffff;
+        }
+        .message {
+            text-align: center;
+            padding: 20px;
+        }
+        .redirect-text {
+            color: #666;
+            margin-top: 10px;
+            font-size: 14px;
+        }
+        /* Add a simple loading animation */
+        .loading {
+            width: 50px;
+            height: 50px;
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #3498db;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 20px 0;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+<div class="message">
+    <h1>Just a moment...</h1>
+    <div class="loading"></div>
+    <p class="redirect-text">Redirecting you to the right place</p>
+</div>
+</body>
+</html>
