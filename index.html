@@ -3,21 +3,26 @@
 <head>
   <!-- Google Tag Manager -->
   <script>
-    // Initialize dataLayer first
+    // Initialize dataLayer first - MUST BE BEFORE GA4 SCRIPT
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
+  </script>
+
+  <!-- Load GA4 script - NO async -->
+  <script src="https://www.googletagmanager.com/gtag/js?id=G-24LJX7YDWW"></script>
+
+  <!-- Initialize GA4 - AFTER script load -->
+  <script>
     gtag('js', new Date());
 
     // Default consent state
     gtag('consent', 'default', {
-      'analytics_storage': 'denied',
-      'wait_for_update': 1000
+      'analytics_storage': 'denied'
     });
 
     // Initialize GA4
     gtag('config', 'G-24LJX7YDWW');
   </script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-24LJX7YDWW"></script>
   <!-- End Google Tag Manager -->
 
   <base href="/">
