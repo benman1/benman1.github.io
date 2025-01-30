@@ -4,18 +4,16 @@
     <meta charset="UTF-8">
     <title>Redirecting...</title>
     <script>
-        // Get the full path including search params and hash
-        const fullPath = window.location.pathname + window.location.search + window.location.hash;
+        (function() {
+            // Get the path without leading slash
+            const path = window.location.pathname.replace(/^\/+/, '');
 
-        // Remove any leading slashes for cleaner URL
-        const cleanPath = fullPath.replace(/^\/+/, '');
-
-        // Construct the redirect URL
-        const redirectUrl = window.location.origin +
-            (cleanPath ? '/' + cleanPath : '');
-
-        // Perform the redirect
-        window.location.href = redirectUrl;
+            // Only redirect if we're not already at the root
+            if (path) {
+                // Always redirect to root with the path as a parameter
+                window.location.href = window.location.origin + '/#/' + path;
+            }
+        })();
     </script>
     <style>
         body {
@@ -37,7 +35,6 @@
             margin-top: 10px;
             font-size: 14px;
         }
-        /* Add a simple loading animation */
         .loading {
             width: 50px;
             height: 50px;

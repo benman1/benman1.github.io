@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"404.html": "b85652277ac1ed752b14e331996e011e",
+const RESOURCES = {"404.html": "50572ef3522cc728c50f693fa4311d79",
 "assets/AssetManifest.bin": "fc274c4281cdf1f0d41b1923702ac161",
 "assets/AssetManifest.bin.json": "732c31a0ef83ec3337b520c5034c9ea1",
 "assets/AssetManifest.json": "9eb4e63f1c1abbc4de50ca8a7d130f6b",
@@ -32,7 +32,7 @@ const RESOURCES = {"404.html": "b85652277ac1ed752b14e331996e011e",
 "canvaskit/skwasm.wasm": "828c26a0b1cc8eb1adacbdd0c5e8bcfa",
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
-"flutter_bootstrap.js": "b7a91fdf84a57a7d044298f4da96f700",
+"flutter_bootstrap.js": "5ed09105847db03dc605efcedae6f27b",
 "icons/android-icon-192x192.png": "c37511353ab5715d9221e47712d66d78",
 "icons/apple-icon-114x114.png": "a84263ad866a10d8e05562425b791181",
 "icons/apple-icon-57x57.png": "98bc952356ca87a192a626923268c152",
