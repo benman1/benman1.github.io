@@ -2,11 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_1",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B,C,A={x2:function x2(d,e){this.a=d
-this.b=e},hh:function hh(d,e,f,g){var _=this
-_.a=d
-_.b=e
-_.c=f
-_.d=g},
+this.b=e},
 agu(d,e,f,g){return new A.xw(d,f,e,null)},
 xw:function xw(d,e,f,g){var _=this
 _.c=d
@@ -72,7 +68,6 @@ w.toString
 x=this.b
 x.toString
 return C.c.dl(w+(x-w)*d)}}
-A.hh.prototype={}
 A.xw.prototype={
 a7(){return new A.P_(null,null)},
 a6V(d){return this.f.$0()}}
@@ -118,8 +113,8 @@ A.L5.prototype={
 I(d){var x,w,v,u=null,t=B.be(d,u,y.h).w.a.a>=900,s=y.e,r=B.b([this.Tj(t)],s)
 r.push(this.Tc(t))
 x=y.m
-w=B.b([new A.fk(D.EB,"AI strategy development","Develop comprehensive AI strategies aligned with business goals"),new A.fk(D.Ez,"ML system architecture","Design scalable machine learning system architectures"),new A.fk(D.EG,"Team setup and best practices","Establish efficient ML teams and development workflows"),new A.fk(D.EE,"Technical due diligence","Evaluate AI/ML systems and tech stacks")],x)
-v=B.b([new A.fk(D.EA,"Corporate ML/AI workshops","Hands-on workshops tailored to your team's needs"),new A.fk(D.EF,"Team upskilling programs","Structured learning paths for ML/AI competency"),new A.fk(D.Ey,"Technical mentoring","One-on-one guidance for ML practitioners"),new A.fk(D.ED,"Conference speaking","Expert presentations on ML/AI topics")],x)
+w=B.b([new A.fk(D.EB,"AI strategy development","Develop comprehensive AI strategies aligned with business goals"),new A.fk(D.Ez,"ML system architecture","Design scalable machine learning system architectures"),new A.fk(D.EF,"Team setup and best practices","Establish efficient ML teams and development workflows"),new A.fk(D.ED,"Technical due diligence","Evaluate AI/ML systems and tech stacks")],x)
+v=B.b([new A.fk(D.EA,"Corporate ML/AI workshops","Hands-on workshops tailored to your team's needs"),new A.fk(D.EE,"Team upskilling programs","Structured learning paths for ML/AI competency"),new A.fk(D.Ey,"Technical mentoring","One-on-one guidance for ML practitioners"),new A.fk(D.EC,"Conference speaking","Expert presentations on ML/AI topics")],x)
 r.push(B.c_(B.b([A.anf("Consultancy:",w),B.cd(u,24,u),A.anf("Training & Education:",v)],s),C.T,C.y,C.D))
 C.b.K(r,B.b([B.cd(u,30,u),new A.yb(u)],s))
 return B.c_(r,C.T,C.y,C.D)},
@@ -135,7 +130,7 @@ A.fk.prototype={}
 A.yb.prototype={
 a7(){return new A.K7()}}
 A.K7.prototype={
-I(d){var x=null,w=B.cy(0,200),v=this.d,u=v?C.A:C.x,t=B.RJ(C.A,2),s=B.kc(30),r=B.hY(D.EC,v?C.j:C.A,x,20),q=B.cd(x,x,8)
+I(d){var x=null,w=B.cy(0,200),v=this.d,u=v?C.A:C.x,t=B.RJ(C.A,2),s=B.kc(30),r=B.hX(C.ic,v?C.j:C.A,x,20),q=B.cd(x,x,8)
 return B.n3(B.ms(x,B.rG(B.fQ(B.b([r,q,B.cf("Let's Talk!",B.bA(x,x,v?C.j:C.A,x,x,x,x,x,x,x,x,16,x,x,C.d7,x,x,!0,x,x,x,x,x,x,x,x))],y.e),C.O,C.y,C.bs),x,x,C.a7,new B.cj(u,x,t,s,x,x,C.ab),w,x,x,new B.aE(32,16,32,16),x),C.aA,!1,x,x,x,x,x,x,x,x,x,x,x,x,new A.a8o(),x,x,x),C.bL,new A.a8p(this),new A.a8q(this),x)}}
 A.um.prototype={
 a7(){return new A.KK()}}
@@ -195,7 +190,7 @@ x.Q=x.r=!0},
 $S:0}
 A.acO.prototype={
 $1(d){var x=null
-return B.alZ(new B.cC(new B.aE(0,8,0,8),B.fQ(B.b([B.hY(d.a,C.A,x,24),B.cd(x,x,12),B.Df(B.cf(d.b,B.bA(x,x,C.zt,x,x,x,x,x,x,x,x,16,x,x,x,x,1.5,!0,x,x,x,x,x,x,x,x)))],y.e),C.O,C.y,C.D),x),d.c)},
+return B.alZ(new B.cC(new B.aE(0,8,0,8),B.fQ(B.b([B.hX(d.a,C.A,x,24),B.cd(x,x,12),B.Df(B.cf(d.b,B.bA(x,x,C.zt,x,x,x,x,x,x,x,x,16,x,x,x,x,1.5,!0,x,x,x,x,x,x,x,x)))],y.e),C.O,C.y,C.D),x),d.c)},
 $S:z+0}
 A.a8p.prototype={
 $1(d){var x=this.a
@@ -212,7 +207,7 @@ A.a8m.prototype={
 $0(){return this.a.d=!1},
 $S:0}
 A.a8o.prototype={
-$0(){return B.hy("mailto:ben@benauffarth.com")},
+$0(){return B.hx("mailto:ben@benauffarth.com")},
 $S:0}
 A.a9d.prototype={
 $0(){var x=this.a
@@ -223,7 +218,6 @@ $0(){return this.a.d=!0},
 $S:0};(function aliases(){var x=A.AD.prototype
 x.Sf=x.m})();(function inheritance(){var x=a.mixinHard,w=a.inherit,v=a.inheritMany
 w(A.x2,B.ao)
-w(A.hh,B.eC)
 v(B.W,[A.xw,A.uo,A.uF,A.yb,A.um])
 v(B.a7,[A.AD,A.KP,A.L5,A.K7,A.KK])
 w(A.P_,A.AD)
@@ -233,14 +227,13 @@ w(A.fk,B.A)
 v(B.fw,[A.acO,A.a8p,A.a8q])
 x(A.AD,B.dI)})()
 B.rh(b.typeUniverse,JSON.parse('{"x2":{"ao":["n"],"ad":["n"],"ao.T":"n","ad.T":"n"},"xw":{"W":[],"h":[]},"P_":{"a7":["xw"]},"uo":{"W":[],"h":[]},"uF":{"W":[],"h":[]},"yb":{"W":[],"h":[]},"um":{"W":[],"h":[]},"KP":{"a7":["uo"]},"L5":{"a7":["uF"]},"K7":{"a7":["yb"]},"KK":{"a7":["um"]}}'))
-var y={m:B.X("u<fk>"),e:B.X("u<h>"),h:B.X("ea"),p:B.X("aQ"),a:B.X("x2")};(function constants(){D.Ey=new A.hh(61894,"Lucide","lucide_icons",!1)
-D.Ez=new A.hh(62020,"Lucide","lucide_icons",!1)
-D.EA=new A.hh(62270,"Lucide","lucide_icons",!1)
-D.EB=new A.hh(62356,"Lucide","lucide_icons",!1)
-D.EC=new A.hh(62388,"Lucide","lucide_icons",!1)
-D.ED=new A.hh(62419,"Lucide","lucide_icons",!1)
-D.EE=new A.hh(62637,"Lucide","lucide_icons",!1)
-D.EF=new A.hh(62796,"Lucide","lucide_icons",!1)
-D.EG=new A.hh(62836,"Lucide","lucide_icons",!1)})()};
+var y={m:B.X("u<fk>"),e:B.X("u<h>"),h:B.X("ea"),p:B.X("aQ"),a:B.X("x2")};(function constants(){D.Ey=new B.eF(61894,"Lucide","lucide_icons",!1)
+D.Ez=new B.eF(62020,"Lucide","lucide_icons",!1)
+D.EA=new B.eF(62270,"Lucide","lucide_icons",!1)
+D.EB=new B.eF(62356,"Lucide","lucide_icons",!1)
+D.EC=new B.eF(62419,"Lucide","lucide_icons",!1)
+D.ED=new B.eF(62637,"Lucide","lucide_icons",!1)
+D.EE=new B.eF(62796,"Lucide","lucide_icons",!1)
+D.EF=new B.eF(62836,"Lucide","lucide_icons",!1)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"yiO3mkSzqCa/IIeiDtFd/fDY+5s=");
+a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"nWybdadeLS+AG0D8elpORWgXZuU=");
