@@ -66855,7 +66855,7 @@ break
 case 3:A.a0a(a,"/books",t.X)
 break}},
 I(a){var s,r=null,q=t.D
-q=A.b([new A.D0(A.c0(A.b([A.p6(B.i,B.B9,r,new A.Rn(a),r,r),A.hd("images/logo/logo.webp",B.i,new A.Ro(),r,80,r)],q),B.O,B.z,B.D),r)],q)
+q=A.b([new A.D0(A.c0(A.b([A.p6(B.i,B.B9,r,new A.Rn(a),r,r),A.hd("assets/images/logo/logo.webp",B.i,new A.Ro(),r,80,r)],q),B.O,B.z,B.D),r)],q)
 s=B.qe.geb(B.qe)
 B.b.K(q,s.ei(s,new A.Rp(this,a),t.l7))
 return new A.CX(A.d2(r,A.c0(q,B.O,B.z,B.D),B.t,B.w,r,r,r,r,r,r,r,r,r),r)}}
@@ -66864,7 +66864,7 @@ $0(){A.n7(this.a).us(null)
 return null},
 $S:0}
 A.Ro.prototype={
-$3(a,b,c){return A.hd(A.rA("images/logo/logo.webp",".webp",".png"),B.i,null,null,80,null)},
+$3(a,b,c){return A.hd(A.rA("assets/images/logo/logo.webp",".webp",".png"),B.i,null,null,80,null)},
 $S:29}
 A.Rp.prototype={
 $1(a){var s=this.a
@@ -66916,7 +66916,7 @@ A.aoH(this.c,s.c,s.e)}},
 $S:0}
 A.vk.prototype={
 I(a){return A.ak6(new A.a03(this,a),null,null,null,t.pa)},
-Tk(){var s=null,r=A.hd("images/logo/logo.webp",B.i,new A.a01(),s,20,s),q=A.cd(s,s,8),p=A.bB(s,s,B.H,s,s,s,s,s,"Ubuntu",s,s,18,s,s,B.aB,s,s,!0,s,s,s,s,s,s,s,s)
+Tk(){var s=null,r=A.hd("assets/images/logo/logo.webp",B.i,new A.a01(),s,20,s),q=A.cd(s,s,8),p=A.bB(s,s,B.H,s,s,s,s,s,"Ubuntu",s,s,18,s,s,B.aB,s,s,!0,s,s,s,s,s,s,s,s)
 return A.fS(A.b([new A.C2(r,B.w,15,s),q,A.a2k(s,s,s,B.bx,s,s,!0,s,A.qh(A.b([A.qh(s,A.bB(s,s,B.w,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),"Auffarth")],t.VO),p,"Ben"),B.aR,s,s,B.ap,B.aC)],t.D),B.O,B.z,B.D)},
 Tt(a){var s=t.u1
 return new A.cC(B.kL,A.fS(A.aa(new A.ag(B.l5,new A.a02(this),s),!0,s.h("aL.E")),B.O,B.qc,B.D),null)}}
@@ -66926,7 +66926,7 @@ if(A.be(p,s,t.w).w.a.a>768)q.push(A.Dh(r.Tt(p)))
 return A.d2(s,A.fS(q,B.O,B.z,B.D),B.t,s,s,s,s,72,s,B.kL,s,s,s)},
 $S:412}
 A.a01.prototype={
-$3(a,b,c){return A.hd(A.rA("images/logo/logo.webp",".webp",".png"),B.i,null,null,20,null)},
+$3(a,b,c){return A.hd(A.rA("assets/images/logo/logo.webp",".webp",".png"),B.i,null,null,20,null)},
 $S:29}
 A.a02.prototype={
 $1(a){return new A.cC(B.Ax,new A.ES(a.b,a.a,this.a.c,null),null)},
@@ -69462,7 +69462,7 @@ if(s==null){throw"DeferredLoading state error: code with hash '"+a+"' was not lo
 v.deferredInitialized[a]=true},
 deferredLibraryParts:{home:[0,1,2],about:[0,3],skills:[0,1,4],books:[0,5]},
 deferredPartUris:["main.dart.js_2.part.js","main.dart.js_3.part.js","main.dart.js_1.part.js","main.dart.js_5.part.js","main.dart.js_6.part.js","main.dart.js_7.part.js"],
-deferredPartHashes:["9HmgjxqIaZFu6NHjis312JJNLLM=","xDZLMLw5hg6o/1pv/tbnXL/LQwY=","5zQgyy9VIH+kPqf6WC9S6TaTpn0=","s8isGiHCiVpuc1NljYPHod8OkKw=","9g/wAhKknyKJRWsvoR4a0jGbCvM=","9l0D77RReZV5taVQya/rk/wfbPs="],
+deferredPartHashes:["9HmgjxqIaZFu6NHjis312JJNLLM=","xDZLMLw5hg6o/1pv/tbnXL/LQwY=","coodQhfrqK8YygXjj9uCnKdKfxw=","UTHjZY6sPT7NmH93qfQgRROOmc8=","9g/wAhKknyKJRWsvoR4a0jGbCvM=","wZZSHrP8cSJ3j2Iy8b6eUjXxSqA="],
 typeUniverse:{eC:new Map(),tR:{},eT:{},tPV:{},sEA:[]},
 mangledGlobalNames:{n:"int",I:"double",bP:"num",t:"String",D:"bool",aQ:"Null",B:"List",A:"Object",az:"Map"},
 mangledNames:{},

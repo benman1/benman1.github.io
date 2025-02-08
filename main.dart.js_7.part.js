@@ -28,7 +28,7 @@ C.J_.prototype={
 I(d){var x,w=null
 A.be(d,w,y.h).toString
 x=y.e
-return new E.kO(A.c0(A.b([A.d2(w,A.c0(A.b([A.cf("Published Books",A.bB(w,w,B.d2,w,w,w,w,w,w,w,w,32,w,w,B.aB,w,w,!0,w,w,w,w,w,w,w,w))],x),B.U,B.z,B.D),B.t,w,w,w,w,w,w,w,w,w,1/0),D.IV,A.c0(A.b([new C.m_("Generative AI with LangChain","Build large language model (LLM) apps with Python, ChatGPT, and other LLMs","360 pages, Packt Publishing (December 22, 2023)","images/books/genai_book.webp","https://amzn.to/4aB1QA1",w),A.cd(w,24,w),new C.m_("Artificial Intelligence with Python Cookbook","Proven recipes for applying AI algorithms and deep learning techniques using TensorFlow 2.x and PyTorch 1.6","470 pages, Packt Publishing (October 30, 2020)","images/books/ai_cookbook.webp","https://amzn.to/3TGSSev",w),A.cd(w,24,w),new C.m_("Machine Learning for Time Series","Use Python to forecast, predict, and detect anomalies with state-of-the-art machine learning methods","370 pages, Packt Publishing; 1st edition (October 2021); 2nd edition (May 2026)","images/books/timeseries_book.webp","https://amzn.to/3CnCglJ",w)],x),B.O,B.z,B.D)],x),B.U,B.z,B.D),w)}}
+return new E.kO(A.c0(A.b([A.d2(w,A.c0(A.b([A.cf("Published Books",A.bB(w,w,B.d2,w,w,w,w,w,w,w,w,32,w,w,B.aB,w,w,!0,w,w,w,w,w,w,w,w))],x),B.U,B.z,B.D),B.t,w,w,w,w,w,w,w,w,w,1/0),D.IV,A.c0(A.b([new C.m_("Generative AI with LangChain","Build large language model (LLM) apps with Python, ChatGPT, and other LLMs","360 pages, Packt Publishing (December 22, 2023)","assets/images/books/genai_book.webp","https://amzn.to/4aB1QA1",w),A.cd(w,24,w),new C.m_("Artificial Intelligence with Python Cookbook","Proven recipes for applying AI algorithms and deep learning techniques using TensorFlow 2.x and PyTorch 1.6","470 pages, Packt Publishing (October 30, 2020)","assets/images/books/ai_cookbook.webp","https://amzn.to/3TGSSev",w),A.cd(w,24,w),new C.m_("Machine Learning for Time Series","Use Python to forecast, predict, and detect anomalies with state-of-the-art machine learning methods","370 pages, Packt Publishing; 1st edition (October 2021); 2nd edition (May 2026)","assets/images/books/timeseries_book.webp","https://amzn.to/3CnCglJ",w)],x),B.O,B.z,B.D)],x),B.U,B.z,B.D),w)}}
 var z=a.updateTypes([])
 C.a76.prototype={
 $1(d){var x=this.a
@@ -95,4 +95,4 @@ A.rk(b.typeUniverse,JSON.parse('{"m_":{"W":[],"h":[]},"IZ":{"a6":["m_"]},"t3":{"
 var y={c:A.X("u<cR>"),e:A.X("u<h>"),h:A.X("ec")};(function constants(){D.kl=new A.y(1,1,0.6549019607843137,0.14901960784313725,B.f)
 D.IV=new A.fn(null,40,null,null)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_7",e:"endPart",h:b})})($__dart_deferred_initializers__,"9l0D77RReZV5taVQya/rk/wfbPs=");
+a.eventLog.push({p:"main.dart.js_7",e:"endPart",h:b})})($__dart_deferred_initializers__,"wZZSHrP8cSJ3j2Iy8b6eUjXxSqA=");

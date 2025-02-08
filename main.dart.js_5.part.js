@@ -33,11 +33,11 @@ return A.m8(A.hd("images/about/me.webp",w,new C.QW(x),B.ci,x,x),w,w)}}
 var z=a.updateTypes([])
 C.QW.prototype={
 $3(d,e,f){var x=this.a
-return A.hd("images/about/me.png",null,null,B.ci,x,x)},
+return A.hd("assets/images/about/me.png",null,null,B.ci,x,x)},
 $S:29};(function inheritance(){var x=a.inheritMany,w=a.inherit
 x(A.aG,[C.Bm,C.rH])
 w(C.QW,A.f_)})()
 A.rk(b.typeUniverse,JSON.parse('{"Bm":{"aG":[],"h":[]},"rH":{"aG":[],"h":[]}}'))
 var y={c:A.X("u<cR>"),e:A.X("u<h>"),h:A.X("ec")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_5",e:"endPart",h:b})})($__dart_deferred_initializers__,"s8isGiHCiVpuc1NljYPHod8OkKw=");
+a.eventLog.push({p:"main.dart.js_5",e:"endPart",h:b})})($__dart_deferred_initializers__,"UTHjZY6sPT7NmH93qfQgRROOmc8=");

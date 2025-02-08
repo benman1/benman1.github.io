@@ -146,7 +146,7 @@ else x=u>768?250:200
 w=this.d?1:0
 v=B.cy(0,250)
 this.a.toString
-return F.aiJ(B.hd("images/logo/logo.webp",C.i,new A.a9m(this,x),null,x,x),v,w)}}
+return F.aiJ(B.hd("assets/images/logo/logo.webp",C.i,new A.a9m(this,x),null,x,x),v,w)}}
 var z=a.updateTypes(["h(fm)"])
 A.acw.prototype={
 $0(){this.a.ad(new A.acv())},
@@ -223,7 +223,7 @@ A.a9n.prototype={
 $0(){return this.a.d=!0},
 $S:0}
 A.a9m.prototype={
-$3(d,e,f){var x,w=B.rA("images/logo/logo.webp",".webp",".png")
+$3(d,e,f){var x,w=B.rA("assets/images/logo/logo.webp",".webp",".png")
 this.a.a.toString
 x=this.b
 return B.hd(w,C.i,null,null,x,x)},
@@ -248,4 +248,4 @@ D.EH=new B.de(62637,"Lucide","lucide_icons",!1)
 D.EJ=new B.de(62796,"Lucide","lucide_icons",!1)
 D.EK=new B.de(62836,"Lucide","lucide_icons",!1)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"5zQgyy9VIH+kPqf6WC9S6TaTpn0=");
+a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"coodQhfrqK8YygXjj9uCnKdKfxw=");
