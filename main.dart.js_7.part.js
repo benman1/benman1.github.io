@@ -28,7 +28,7 @@ C.J_.prototype={
 I(d){var x,w=null
 A.be(d,w,y.h).toString
 x=y.e
-return new E.kO(A.c0(A.b([A.d2(w,A.c0(A.b([A.cf("Published Books",A.bB(w,w,B.d2,w,w,w,w,w,w,w,w,32,w,w,B.aB,w,w,!0,w,w,w,w,w,w,w,w))],x),B.U,B.y,B.D),B.t,w,w,w,w,w,w,w,w,w,1/0),D.IQ,A.c0(A.b([new C.m_("Generative AI with LangChain","Build large language model (LLM) apps with Python, ChatGPT, and other LLMs","360 pages, Packt Publishing (December 22, 2023)","images/books/genai_book.webp","https://amzn.to/4aB1QA1",w),A.cd(w,24,w),new C.m_("Artificial Intelligence with Python Cookbook","Proven recipes for applying AI algorithms and deep learning techniques using TensorFlow 2.x and PyTorch 1.6","470 pages, Packt Publishing (October 30, 2020)","images/books/ai_cookbook.webp","https://amzn.to/3TGSSev",w),A.cd(w,24,w),new C.m_("Machine Learning for Time Series","Use Python to forecast, predict, and detect anomalies with state-of-the-art machine learning methods","370 pages, Packt Publishing; 1st edition (October 2021); 2nd edition (May 2026)","images/books/timeseries_book.webp","https://amzn.to/3CnCglJ",w)],x),B.O,B.y,B.D)],x),B.U,B.y,B.D),w)}}
+return new E.kO(A.c0(A.b([A.d2(w,A.c0(A.b([A.cf("Published Books",A.bB(w,w,B.d2,w,w,w,w,w,w,w,w,32,w,w,B.aB,w,w,!0,w,w,w,w,w,w,w,w))],x),B.U,B.z,B.D),B.t,w,w,w,w,w,w,w,w,w,1/0),D.IV,A.c0(A.b([new C.m_("Generative AI with LangChain","Build large language model (LLM) apps with Python, ChatGPT, and other LLMs","360 pages, Packt Publishing (December 22, 2023)","images/books/genai_book.webp","https://amzn.to/4aB1QA1",w),A.cd(w,24,w),new C.m_("Artificial Intelligence with Python Cookbook","Proven recipes for applying AI algorithms and deep learning techniques using TensorFlow 2.x and PyTorch 1.6","470 pages, Packt Publishing (October 30, 2020)","images/books/ai_cookbook.webp","https://amzn.to/3TGSSev",w),A.cd(w,24,w),new C.m_("Machine Learning for Time Series","Use Python to forecast, predict, and detect anomalies with state-of-the-art machine learning methods","370 pages, Packt Publishing; 1st edition (October 2021); 2nd edition (May 2026)","images/books/timeseries_book.webp","https://amzn.to/3CnCglJ",w)],x),B.O,B.z,B.D)],x),B.U,B.z,B.D),w)}}
 var z=a.updateTypes([])
 C.a76.prototype={
 $1(d){var x=this.a
@@ -59,7 +59,7 @@ u=A.cf(u,A.bB(p,p,B.bM,p,p,p,p,p,p,p,p,n?12:14,p,p,p,p,p,!0,p,p,p,p,p,p,p,p))
 t=A.cd(p,16,p)
 s=A.kd(25)
 r=y.e
-q=A.fQ(A.b([m,l,A.Dh(A.c0(A.b([j,x,w,v,u,t,A.n5(A.mu(p,A.d2(p,A.cf(o,A.bB(p,p,B.i,p,p,p,p,p,p,p,p,p,p,p,B.I,p,p,!0,p,p,p,p,p,p,p,p)),B.t,p,p,new A.cj(D.kl,p,p,s,p,p,B.ac),p,p,p,new A.aE(20,10,20,10),p,p,p),B.aA,!1,p,p,p,p,p,p,p,p,p,p,p,p,new C.a72(k),p,p,p),B.bg,p,p,p)],r),B.U,B.y,B.D))],r),B.U,B.y,B.D)
+q=A.fS(A.b([m,l,A.Dh(A.c0(A.b([j,x,w,v,u,t,A.n5(A.mu(p,A.d2(p,A.cf(o,A.bB(p,p,B.i,p,p,p,p,p,p,p,p,p,p,p,B.I,p,p,!0,p,p,p,p,p,p,p,p)),B.t,p,p,new A.cj(D.kl,p,p,s,p,p,B.ac),p,p,p,new A.aE(20,10,20,10),p,p,p),B.aA,!1,p,p,p,p,p,p,p,p,p,p,p,p,new C.a72(k),p,p,p),B.bg,p,p,p)],r),B.U,B.z,B.D))],r),B.U,B.z,B.D)
 if(n){m=k.a
 l=A.d2(p,A.hd(m.f,p,new C.a73(k),B.ci,p,p),B.t,p,p,p,p,130,p,p,p,p,100)
 j=A.cd(p,20,p)
@@ -70,7 +70,7 @@ v=A.cd(p,12,p)
 u=A.cf(k.a.e,A.bB(p,p,B.bM,p,p,p,p,p,p,p,p,12,p,p,p,p,p,!0,p,p,p,p,p,p,p,p))
 t=A.cd(p,16,p)
 s=A.kd(25)
-q=A.c0(A.b([l,j,A.c0(A.b([m,x,w,v,u,t,A.m8(A.n5(A.mu(p,A.d2(p,A.cf(o,A.bB(p,p,B.i,p,p,p,p,p,p,p,p,p,p,p,B.I,p,p,!0,p,p,p,p,p,p,p,p)),B.t,p,p,new A.cj(D.kl,p,p,s,p,p,B.ac),p,p,p,new A.aE(20,10,20,10),p,p,p),B.aA,!1,p,p,p,p,p,p,p,p,p,p,p,p,new C.a74(k),p,p,p),B.bg,p,p,p),p,p)],r),B.U,B.y,B.D)],r),B.O,B.y,B.D)}return q},
+q=A.c0(A.b([l,j,A.c0(A.b([m,x,w,v,u,t,A.m8(A.n5(A.mu(p,A.d2(p,A.cf(o,A.bB(p,p,B.i,p,p,p,p,p,p,p,p,p,p,p,B.I,p,p,!0,p,p,p,p,p,p,p,p)),B.t,p,p,new A.cj(D.kl,p,p,s,p,p,B.ac),p,p,p,new A.aE(20,10,20,10),p,p,p),B.aA,!1,p,p,p,p,p,p,p,p,p,p,p,p,new C.a74(k),p,p,p),B.bg,p,p,p),p,p)],r),B.U,B.z,B.D)],r),B.O,B.z,B.D)}return q},
 $S:422}
 C.a71.prototype={
 $3(d,e,f){var x=null,w=this.a.a.f
@@ -88,11 +88,11 @@ $0(){return A.Qy(A.hy(this.a.a.r,0,null),B.kX)},
 $S:0};(function inheritance(){var x=a.inheritMany,w=a.inherit
 x(A.W,[C.m_,C.t3])
 x(A.a6,[C.IZ,C.J_])
-x(A.eZ,[C.a76,C.a77,C.a71,C.a73])
+x(A.f_,[C.a76,C.a77,C.a71,C.a73])
 x(A.m9,[C.a70,C.a7_,C.a72,C.a74])
 w(C.a75,A.ma)})()
 A.rk(b.typeUniverse,JSON.parse('{"m_":{"W":[],"h":[]},"IZ":{"a6":["m_"]},"t3":{"W":[],"h":[]},"J_":{"a6":["t3"]}}'))
-var y={c:A.X("u<cR>"),e:A.X("u<h>"),h:A.X("eb")};(function constants(){D.kl=new A.y(1,1,0.6549019607843137,0.14901960784313725,B.f)
-D.IQ=new A.fT(null,40,null,null)})()};
+var y={c:A.X("u<cR>"),e:A.X("u<h>"),h:A.X("ec")};(function constants(){D.kl=new A.y(1,1,0.6549019607843137,0.14901960784313725,B.f)
+D.IV=new A.fn(null,40,null,null)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_7",e:"endPart",h:b})})($__dart_deferred_initializers__,"CFcd5/Aq3xI0OjglvywnJpxEw7Y=");
+a.eventLog.push({p:"main.dart.js_7",e:"endPart",h:b})})($__dart_deferred_initializers__,"9l0D77RReZV5taVQya/rk/wfbPs=");
