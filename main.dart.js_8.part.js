@@ -2,12 +2,12 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_8",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,F,G,B={
-arA(){return new B.Bh(null)},
-Bh:function Bh(d){this.a=d},
-Be:function Be(d,e){this.c=d
+aqo(){return new B.lC(null)},
+lC:function lC(d){this.a=d},
+AO:function AO(d,e){this.c=d
 this.a=e},
-Bg:function Bg(d){this.a=d},
-Bf:function Bf(d){this.a=d}},D,H
+AQ:function AQ(d){this.a=d},
+AP:function AP(d){this.a=d}},D,H
 A=c[0]
 C=c[2]
 E=c[9]
@@ -16,28 +16,28 @@ G=c[12]
 B=a.updateHolder(c[4],B)
 D=c[10]
 H=c[11]
-B.Bh.prototype={
-G(d){var x=null,w=A.bo(d,x,y.h).w.a.a>=900,v=y.e,u=A.b([],v)
-if(!w)u.push(D.jE)
-u.push(H.j5)
+B.lC.prototype={
+H(d){var x=null,w=A.bn(d,x,y.h).w.a.a>=900,v=y.e,u=A.b([],v)
+if(!w)u.push(D.jB)
+u.push(H.j2)
 v=A.b([],v)
 if(w)v.push(D.x6)
-v.push(A.Ur(new A.cy(D.B5,new B.Be(w,x),x)))
-u.push(A.ho(v,C.a8,C.D,C.H))
-return new E.nq(A.cu(u,C.S,C.D,C.H),x)}}
-B.Be.prototype={
-G(d){var x=null,w=A.d4("Who am I?",A.cc(x,x,C.en,x,x,x,x,x,x,x,x,32,x,x,C.aE,x,x,!0,x,x,x,x,x,x,x,x))
-return A.cu(A.b([w,G.wi,A.d4("With over 15 years in data science and AI, I've helped organizations deliver transformational projects that drive real business value. From enterprise-scale fraud detection systems to real-time lending platforms processing 100k+ daily decisions, I combine deep technical expertise with practical business implementation.\n    \nMy journey in technology started early \u2013 programming since age 8, developing a chess engine in assembly as a teenager, and eventually earning a PhD in Computer Science from KTH, one of Europe's top engineering universities. This foundation in computational neuroscience and machine learning, combined with international research experience in Japan and across Europe, gives me a unique perspective on AI solutions.\n\nAs Head of Data Science at Loveholidays, the UK's third-largest online travel agency, I led initiatives that transformed their data capabilities, including an ML-driven marketing optimization platform that improved ROI by 15%. I've worked across diverse sectors with industry leaders including Hastings Direct, Oleeo, and Smarkets, consistently delivering measurable results. My expertise spans fraud detection, real-time decision engines, GenAI solutions with LangChain and custom embeddings, and ML-driven optimization.\n\nBeyond corporate achievements, I've built and scaled high-performing data science teams while contributing to the wider tech community as co-founder of Data Science Speakers London. My research has garnered over 300 citations, and I share knowledge as a guest lecturer at Oxford University and regular speaker at major conferences like ODSC and PyData.\n\nI'm the author of several bestselling technical books, including practical guides on Generative AI and ML implementation that have helped thousands of practitioners. My latest book on GenAI with LangChain became an Amazon bestseller in Programming, generating over $100k in sales and helping organizations implement enterprise AI solutions.\n\nWhen not consulting or writing, I spend time with my son, who's currently deciding between becoming a professional football player or a machine learning engineer. I also practice Choi Kwang Do, constantly working on improvement \u2013 a philosophy I bring to both my martial arts and professional work.\n\nInterested in working together? Contact me to discuss how I can help your organization succeed with AI.\n    ",A.cc(x,x,C.bo,x,x,x,x,x,x,x,x,this.c?16:14,x,x,x,x,1.6,!0,x,x,x,x,x,x,x,x))],y.e),C.a8,C.D,C.H)}}
-B.Bg.prototype={
-G(d){return A.l3(D.jE,null,200)}}
-B.Bf.prototype={
-G(d){return D.Hu}}
+v.push(A.TG(new A.cx(D.B4,new B.AO(w,x),x)))
+u.push(A.hk(v,C.a7,C.D,C.E))
+return new E.n7(A.c8(u,C.K,C.D,C.E),x)}}
+B.AO.prototype={
+H(d){var x=null,w=A.cC("Who am I?",A.cl(x,x,C.eo,x,x,x,x,x,x,x,x,32,x,x,C.aA,x,x,!0,x,x,x,x,x,x,x,x))
+return A.c8(A.b([w,G.wi,A.cC("With over 15 years in data science and AI, I've helped organizations deliver transformational projects that drive real business value. From enterprise-scale fraud detection systems to real-time lending platforms processing 100k+ daily decisions, I combine deep technical expertise with practical business implementation.\n    \nMy journey in technology started early \u2013 programming since age 8, developing a chess engine in assembly as a teenager, and eventually earning a PhD in Computer Science from KTH, one of Europe's top engineering universities. This foundation in computational neuroscience and machine learning, combined with international research experience in Japan and across Europe, gives me a unique perspective on AI solutions.\n\nAs Head of Data Science at Loveholidays, the UK's third-largest online travel agency, I led initiatives that transformed their data capabilities, including an ML-driven marketing optimization platform that improved ROI by 15%. I've worked across diverse sectors with industry leaders including Hastings Direct, Oleeo, and Smarkets, consistently delivering measurable results. My expertise spans fraud detection, real-time decision engines, GenAI solutions with LangChain and custom embeddings, and ML-driven optimization.\n\nBeyond corporate achievements, I've built and scaled high-performing data science teams while contributing to the wider tech community as co-founder of Data Science Speakers London. My research has garnered over 300 citations, and I share knowledge as a guest lecturer at Oxford University and regular speaker at major conferences like ODSC and PyData.\n\nI'm the author of several bestselling technical books, including practical guides on Generative AI and ML implementation that have helped thousands of practitioners. My latest book on GenAI with LangChain became an Amazon bestseller in Programming, generating over $100k in sales and helping organizations implement enterprise AI solutions.\n\nWhen not consulting or writing, I spend time with my son, who's currently deciding between becoming a professional football player or a machine learning engineer. I also practice Choi Kwang Do, constantly working on improvement \u2013 a philosophy I bring to both my martial arts and professional work.\n\nInterested in working together? Contact me to discuss how I can help your organization succeed with AI.\n    ",A.cl(x,x,C.bn,x,x,x,x,x,x,x,x,this.c?16:14,x,x,x,x,1.6,!0,x,x,x,x,x,x,x,x))],y.e),C.a7,C.D,C.E)}}
+B.AQ.prototype={
+H(d){return A.pL(D.jB,null,200)}}
+B.AP.prototype={
+H(d){return D.Hq}}
 var z=a.updateTypes([]);(function inheritance(){var x=a.inheritMany
-x(A.ak,[B.Bh,B.Be,B.Bg,B.Bf])})()
-A.rg(b.typeUniverse,JSON.parse('{"Bh":{"ak":[],"h":[]},"Be":{"ak":[],"h":[]},"Bg":{"ak":[],"h":[]},"Bf":{"ak":[],"h":[]}}'))
-var y={e:A.W("u<h>"),h:A.W("e8")};(function constants(){D.x6=new B.Bg(null)
-D.jE=new B.Bf(null)
-D.B5=new A.aD(32,0,32,0)
-D.Hu=new F.w6("assets/images/about/me.webp",200,null)})()};
+x(A.af,[B.lC,B.AO,B.AQ,B.AP])})()
+A.r_(b.typeUniverse,JSON.parse('{"lC":{"af":[],"i":[]},"AO":{"af":[],"i":[]},"AQ":{"af":[],"i":[]},"AP":{"af":[],"i":[]}}'))
+var y={e:A.X("v<i>"),h:A.X("e3")};(function constants(){D.x6=new B.AQ(null)
+D.jB=new B.AP(null)
+D.B4=new A.aE(32,0,32,0)
+D.Hq=new F.vO("assets/images/about/me.webp",200,null)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_8",e:"endPart",h:b})})($__dart_deferred_initializers__,"qIDQedL6dh32L2ZT5cq0hblifi0=");
+a.eventLog.push({p:"main.dart.js_8",e:"endPart",h:b})})($__dart_deferred_initializers__,"mM5UFUTArI6oXLZLkWld7J0Pc0s=");
