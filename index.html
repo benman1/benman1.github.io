@@ -14,7 +14,7 @@
   <link rel="preconnect" href="https://www.googletagmanager.com">
   <link rel="preconnect" href="https://www.google-analytics.com">
 
-  <!-- SEO Improvements -->
+  <!-- SEO and Meta -->
   <title>Ben Auffarth - AI and ML Leader</title>
   <meta name="description" content="AI and Machine Learning expert specializing in LLMs, tech consulting, and advisory services. Author and experienced tech leader based in London.">
   <meta name="keywords" content="Ben Auffarth, Auffarth, Benjamin Auffarth, Benjamin J Auffarth, LLM, contracting, tech consulting, tech advisory, AI consulting London, ML expert">
@@ -22,7 +22,7 @@
   <link rel="canonical" href="https://benauffarth.com">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <!-- Enhanced Social Media Tags -->
+  <!-- Social Media Tags -->
   <meta property="og:title" content="Ben Auffarth - AI and ML Leader">
   <meta property="og:site_name" content="Ben Auffarth">
   <meta property="og:description" content="AI and Machine Learning expert specializing in LLMs, tech consulting, and advisory services.">
@@ -48,21 +48,11 @@
   <link rel="icon" type="image/png" sizes="96x96" href="icons/favicon-96x96.png">
   <link rel="manifest" href="manifest.json">
 
-  <!-- Google Tag Manager -->
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-24LJX7YDWW', {
-      send_page_view: false
-    });
-  </script>
-
   <style>
     @font-face {
       font-family: 'Ubuntu';
-      src: url('assets/fonts/Ubuntu-Regular.ttf') format('truetype');
-      font-display: block;
+      src: url('assets/fonts/Ubuntu-Regular.woff2') format('woff2');
+      font-display: swap;
     }
 
     body {
@@ -71,16 +61,7 @@
       background-color: #ffffff;
       font-family: 'Ubuntu', sans-serif;
     }
-  </style>
 
-  <!-- Debug Console -->
-  <script>
-    console.log('🔍 [Debug] Page load started');
-    window.addEventListener('load', function() {
-      console.log('🔍 [Debug] Page fully loaded');
-    });
-  </script>
-  <style>
     .loading {
       display: flex;
       justify-content: center;
@@ -103,11 +84,26 @@
       100% { transform: rotate(360deg); }
     }
   </style>
+
+  <!-- Google Tag Manager -->
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-24LJX7YDWW', {
+      send_page_view: false
+    });
+  </script>
 </head>
 <body>
 <div class="loading">
   <div class="spinner"></div>
 </div>
+
+<div id="home-content"></div>
+<div id="about-content"></div>
+<div id="book-content"></div>
+<div id="skills-content"></div>
 
 <script src="flutter.js" defer></script>
 <script>
@@ -131,19 +127,7 @@
     }, 2000);
   });
 </script>
-<div id="home-content">
-</div>
 
-<div id="about-content">
-</div>
-
-<div id="book-content">
-</div>
-
-<div id="skills-content">
-</div>
-
-<!-- Main Application -->
 <script src="main.dart.js"></script>
 </body>
 </html>
