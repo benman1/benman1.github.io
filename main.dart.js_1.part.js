@@ -237,6 +237,6 @@ D.Jw=B.a(x([D.HN,G.l_,D.I7]),y.u)
 D.Pm=new A.NC(null)
 D.QB=new B.dN(12,null,null,null)})();(function lazyInitializers(){var x=a.lazyFinal
 x($,"aXQ","aFY",()=>B.a([A.qp("lightbulb","AI strategy development","Develop comprehensive AI strategies aligned with business goals"),A.qp("cog","ML system architecture","Design scalable machine learning system architectures"),A.qp("users","Team setup and best practices","Establish efficient ML teams and development workflows"),A.qp("search","Technical due diligence","Evaluate AI/ML systems and tech stacks")],B.P("p<qo>")))
-x($,"aYg","aGa",()=>B.a([A.qp("graduation-cap","Corporate ML/AI workshops","Hands-on workshops tailored to your team's needs"),A.qp("trending-up","Team upskilling programs","Structured learning paths for ML/AI competency"),A.qp("brain","Technical mentoring","One-on-one guidance for ML practitioners"),A.qp("mic-2","Conference speaking","Expert presentations on ML/AI topics")],B.P("p<qo>")))})()};
+x($,"aYg","aGa",()=>B.a([A.qp("graduation-cap","Corporate ML/AI workshops","Hands-on workshops tailored to your team's needs"),A.qp("trending-up","Team upskilling programs","Structured learning paths for ML/AI competency"),A.qp("brain","Technical mentoring","One-on-one guidance for ML practitioners"),A.qp("mic-vocal","Conference speaking","Expert presentations on ML/AI topics")],B.P("p<qo>")))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"oebUDMTr7DdnEajljqkBMHwWebo=");
+a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"Yuv2lbcTrMuRSmWArqrVYwEPGeM=");
