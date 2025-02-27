@@ -75,7 +75,7 @@ _.w=d
 _.a=e
 _.b=f
 _.c=g},
-aHu(d,e){var x=d.b
+aHw(d,e){var x=d.b
 x.toString
 y.x.a(x).a=e},
 op:function op(d,e){this.a=d
@@ -231,9 +231,9 @@ u=u==null?null:u.jT(0,0,t,t.gu(0))
 w=u}v=!1}return v},
 adE:function adE(d){this.a=d},
 bF:function bF(){},
-aFV(){return new B.pg(null)},
+aFX(){return new B.pg(null)},
 fo(d,e,f){return new B.hL(e,f,d)},
-aFU(d){if(d>=90)return D.Bb
+aFW(d){if(d>=90)return D.Bb
 if(d>=80)return D.BS
 return D.BL},
 pg:function pg(d){this.a=d},
@@ -282,7 +282,7 @@ L(d){var x,w,v,u,t,s,r,q,p,o=null
 d.ac(y.r)
 x=A.X(d).xr
 A.X(d)
-switch(0){case 0:w=new B.afe(d,C.u,o,o,o,1,D.Dd,o)
+switch(0){case 0:w=new B.afe(d,C.u,o,o,o,1,D.Dc,o)
 break}v=w
 w=x.f
 if(w==null){w=v.f
@@ -307,7 +307,7 @@ return w==null?x.k2:w},
 gbx(d){var x=this.gJ9().x1
 return x==null?C.l:x},
 gbT(){return C.B},
-gbJ(d){return C.K8}}
+gbJ(d){return C.K7}}
 B.a00.prototype={}
 B.wV.prototype={
 ag(){var x=null
@@ -588,13 +588,13 @@ B.op.prototype={
 F(){return"ListTileTitleAlignment."+this.b},
 D8(d,e,f,g){var x,w,v=this
 $label0$0:{if(D.na===v){x=D.nb.D8(d,e,f,g)
-break $label0$0}w=D.Ep===v
+break $label0$0}w=D.Eo===v
 if(w&&e>72){x=16
 break $label0$0}if(w){x=(e-d)/2
 if(g)x=Math.min(x,16)
-break $label0$0}if(D.Eq===v){x=f.av
+break $label0$0}if(D.Ep===v){x=f.av
 break $label0$0}if(D.nb===v){x=(e-d)/2
-break $label0$0}if(D.Er===v){x=e-d-f.av
+break $label0$0}if(D.Eq===v){x=e-d-f.av
 break $label0$0}x=null}return x}}
 B.Iq.prototype={
 LS(d,e){return!1},
@@ -826,7 +826,7 @@ e1(d,e){var x=this.JI(A.i0(),A.hg(),d),w=this.iF$.j(0,D.bp)
 w.toString
 return A.Xd(w.h2(x.a,e),x.c)},
 cK(d){return d.b3(this.JI(A.i0(),A.hg(),d).b)},
-bB(){var x=this,w=y.k,v=x.JJ(A.amX(),A.pS(),w.a(A.y.prototype.ga1.call(x)),B.aLv())
+bB(){var x=this,w=y.k,v=x.JJ(A.amX(),A.pS(),w.a(A.y.prototype.ga1.call(x)),B.aLx())
 x.id=w.a(A.y.prototype.ga1.call(x)).b3(v.b)},
 ap(d,e){var x,w=new B.aja(d,e),v=this.iF$
 w.$1(v.j(0,D.cN))
@@ -928,7 +928,7 @@ l.p2=A.A(y.B,v)
 u=l.p1
 x=x.c
 l.p1=A.A(x,v)
-for(t=0;t<4;++t){s=D.Fh[t]
+for(t=0;t<4;++t){s=D.Fg[t]
 r=k.adw(s)
 q=r==null?null:r.a
 p=u.j(0,s)
@@ -950,32 +950,32 @@ B.bF.prototype={}
 B.pg.prototype={
 gtY(){return"AI/ML Skills & Expertise"},
 gtX(){return"Technical skills in AI/ML, infrastructure, and domain expertise. Specializing in ML system architecture, AI strategy, and team leadership."},
-on(d){var x="Skills & Expertise",w=null,v=A.b([new A.bc(new E.bO(x,C.eP),A.bh(x,w,w,$.VV(),w),w),H.hK],y.p),u=$.aAl()
+on(d){var x="Skills & Expertise",w=null,v=A.b([new A.bc(new E.bO(x,C.eP),A.bh(x,w,w,$.VV(),w),w),H.hK],y.p),u=$.aAn()
 C.b.P(v,u.ge3(u).eP(0,new B.abo(),y.l))
 return A.cW(v,C.ac,C.F,C.G)}}
 B.pL.prototype={
 ag(){return new B.SO()}}
 B.SO.prototype={
 L(d){var x=this,w=null,v=x.a.c,u=A.iO(12),t=A.aF(50,C.a4.gl(0)>>>16&255,C.a4.gl(0)>>>8&255,C.a4.gl(0)&255),s=x.a2H(x.a.c),r=x.d?0.5:0
-return new A.bc(new E.bO(v+" Skills",C.bz),new A.cj(D.D1,new B.G0(0,new A.cD(u,new A.bv(t,1,C.H,-1)),new B.wV(s,A.bh(x.a.c,w,w,$.pW(),w),new B.aki(x),A.b([x.a0_()],y.p),new B.vp(new A.eZ(D.DJ,24,C.a4,w),r,C.aj,C.O,w,w),w),w),w),w)},
+return new A.bc(new E.bO(v+" Skills",C.bz),new A.cj(D.D1,new B.G0(0,new A.cD(u,new A.bv(t,1,C.H,-1)),new B.wV(s,A.bh(x.a.c,w,w,$.pW(),w),new B.aki(x),A.b([x.a0_()],y.p),new B.vp(new A.eZ(D.DI,24,C.a4,w),r,C.aj,C.O,w,w),w),w),w),w)},
 a0_(){var x=J.W4(this.a.d)
 return A.cW(x.eP(x,new B.akg(this),y.v).ew(0),C.U,C.F,C.G)},
 a2H(d){var x
 $label0$0:{if("Core ML/AI"===d){x=F.n1
-break $label0$0}if("Infrastructure"===d){x=D.DS
+break $label0$0}if("Infrastructure"===d){x=D.DR
 break $label0$0}if("Domain Expertise"===d){x=F.n_
-break $label0$0}x=D.DK
+break $label0$0}x=D.DJ
 break $label0$0}return new A.eZ(x,24,C.a4,null)}}
 B.SP.prototype={
-L(d){var x=null,w=A.bh(this.c,x,x,D.PP,x),v=J.nm(this.d,new B.akj(),y.u)
+L(d){var x=null,w=A.bh(this.c,x,x,D.PO,x),v=J.nm(this.d,new B.akj(),y.u)
 return new A.cj(C.j7,A.cW(A.b([w,G.bl,A.avp(C.dz,A.a4(v,!0,v.$ti.h("aM.E")),8,8)],y.p),C.ac,C.F,C.G),x)}}
 B.pM.prototype={
 L(d){var x,w,v=null,u=this.c,t=u.c,s=t==null,r=s?u.a+" - "+u.b+"% proficiency":t
 if(s)t=""+u.b+"% proficiency"
-s=B.aFU(u.b)
+s=B.aFW(u.b)
 x=A.iO(16)
 w=A.anH(A.aF(25,C.k.gl(0)>>>16&255,C.k.gl(0)>>>8&255,C.k.gl(0)&255),1)
-return new A.bc(new E.bO(r,C.ao),A.apo(A.ez(v,A.fm(A.b([this.a35(),C.hJ,A.bh(u.a,v,v,D.Pf,v)],y.p),C.U,C.F,C.c1),C.u,v,v,new A.cI(s,v,w,x,v,v,C.aq),v,v,v,C.mu,v,v,v),t),v)},
+return new A.bc(new E.bO(r,C.ao),A.apo(A.ez(v,A.fm(A.b([this.a35(),C.hJ,A.bh(u.a,v,v,D.Pe,v)],y.p),C.U,C.F,C.c1),C.u,v,v,new A.cI(s,v,w,x,v,v,C.aq),v,v,v,C.mu,v,v,v),t),v)},
 a35(){var x=this.c.b
 if(x>=90)return D.zk
 if(x>=85)return D.zm
@@ -1055,7 +1055,7 @@ w(t,"ga_E","a_F",2)
 x(t=B.C2.prototype,"ga55","a56",0)
 v(t,"ga_A","a_B",3)
 x(B.xv.prototype,"ga3y","a3z",0)
-u(B,"aLv","aHu",7)
+u(B,"aLx","aHw",7)
 v(t=B.CO.prototype,"gbH","bi",1)
 v(t,"gc3","bn",1)
 v(t,"gc0","bh",1)})();(function inheritance(){var x=a.mixinHard,w=a.inheritMany,v=a.inherit
@@ -1086,16 +1086,16 @@ v(B.pg,E.ns)
 x(B.Eo,A.h6)
 x(B.UO,B.mv)
 x(B.Dm,B.iu)})()
-A.uY(b.typeUniverse,JSON.parse('{"G0":{"ah":[],"h":[]},"wV":{"Z":[],"h":[]},"BL":{"ad":["wV"]},"xu":{"Z":[],"h":[]},"C2":{"ad":["xu"]},"xv":{"ih":[]},"Iq":{"ah":[],"h":[]},"Pv":{"bF":["x?"]},"PP":{"iu":["iD","C"],"ar":[],"h":[],"iu.0":"iD","iu.1":"C"},"CO":{"C":[],"mv":["iD","C"],"y":[],"am":[]},"vp":{"Z":[],"h":[]},"MU":{"ad":["vp"]},"zZ":{"iu":["1","2"],"ar":[],"h":[]},"A_":{"b6":[],"aX":[],"N":[]},"pL":{"Z":[],"h":[]},"pM":{"ah":[],"h":[]},"pg":{"ah":[],"h":[]},"SO":{"ad":["pL"]},"SP":{"ah":[],"h":[]},"aCU":{"cC":[],"aR":[],"aC":[],"h":[]}}'))
+A.uY(b.typeUniverse,JSON.parse('{"G0":{"ah":[],"h":[]},"wV":{"Z":[],"h":[]},"BL":{"ad":["wV"]},"xu":{"Z":[],"h":[]},"C2":{"ad":["xu"]},"xv":{"ih":[]},"Iq":{"ah":[],"h":[]},"Pv":{"bF":["x?"]},"PP":{"iu":["iD","C"],"ar":[],"h":[],"iu.0":"iD","iu.1":"C"},"CO":{"C":[],"mv":["iD","C"],"y":[],"am":[]},"vp":{"Z":[],"h":[]},"MU":{"ad":["vp"]},"zZ":{"iu":["1","2"],"ar":[],"h":[]},"A_":{"b6":[],"aX":[],"N":[]},"pL":{"Z":[],"h":[]},"pM":{"ah":[],"h":[]},"pg":{"ah":[],"h":[]},"SO":{"ad":["pL"]},"SP":{"ah":[],"h":[]},"aCW":{"cC":[],"aR":[],"aC":[],"h":[]}}'))
 A.aw4(b.typeUniverse,JSON.parse('{"zZ":2,"Dm":2}'))
 var y=(function rtii(){var x=A.ab
-return{m:x("bE<I>"),k:x("ag"),x:x("eh"),r:x("aBd"),I:x("fK"),W:x("ci"),h:x("aX"),O:x("aCU"),Q:x("r<C>"),p:x("r<h>"),B:x("fS"),z:x("bl<ad<Z>>"),y:x("m4"),q:x("C"),v:x("bc"),N:x("k"),t:x("av<I>"),l:x("h"),C:x("bZ"),a:x("tV"),F:x("iD"),Z:x("uJ"),u:x("pM"),X:x("aI7"),A:x("@"),_:x("x?"),R:x("db?"),b:x("av<I>?"),H:x("~")}})();(function constants(){var x=a.makeConstList
-D.DR=new A.cs(58873,"MaterialIcons",null,!1)
-D.zk=new A.eZ(D.DR,16,C.k,null)
-D.DH=new A.cs(57699,"MaterialIcons",null,!1)
-D.zl=new A.eZ(D.DH,16,C.k,null)
-D.DX=new A.cs(984301,"MaterialIcons",null,!1)
-D.zm=new A.eZ(D.DX,16,C.k,null)
+return{m:x("bE<I>"),k:x("ag"),x:x("eh"),r:x("aBf"),I:x("fK"),W:x("ci"),h:x("aX"),O:x("aCW"),Q:x("r<C>"),p:x("r<h>"),B:x("fS"),z:x("bl<ad<Z>>"),y:x("m4"),q:x("C"),v:x("bc"),N:x("k"),t:x("av<I>"),l:x("h"),C:x("bZ"),a:x("tV"),F:x("iD"),Z:x("uJ"),u:x("pM"),X:x("aI9"),A:x("@"),_:x("x?"),R:x("db?"),b:x("av<I>?"),H:x("~")}})();(function constants(){var x=a.makeConstList
+D.DQ=new A.cs(58873,"MaterialIcons",null,!1)
+D.zk=new A.eZ(D.DQ,16,C.k,null)
+D.DG=new A.cs(57699,"MaterialIcons",null,!1)
+D.zl=new A.eZ(D.DG,16,C.k,null)
+D.DW=new A.cs(984301,"MaterialIcons",null,!1)
+D.zm=new A.eZ(D.DW,16,C.k,null)
 D.lr=new B.WQ(0,"polite")
 D.lt=new A.bv(C.B,1,C.H,-1)
 D.lv=new A.cQ(D.lt,C.r,D.lt,C.r)
@@ -1104,27 +1104,27 @@ D.BL=new A.x(1,0.49411764705882355,0.7019607843137254,0.6823529411764706,C.h)
 D.BS=new A.x(1,0.2627450980392157,0.596078431372549,0.5725490196078431,C.h)
 D.D0=new A.fM(16,0,24,0)
 D.D1=new A.az(0,0,0,32)
-D.Dd=new A.az(4,4,4,4)
-D.DJ=new A.cs(58195,"MaterialIcons",null,!1)
-D.DK=new A.cs(58221,"MaterialIcons",null,!1)
-D.DS=new A.cs(58889,"MaterialIcons",null,!1)
+D.Dc=new A.az(4,4,4,4)
+D.DI=new A.cs(58195,"MaterialIcons",null,!1)
+D.DJ=new A.cs(58221,"MaterialIcons",null,!1)
+D.DR=new A.cs(58889,"MaterialIcons",null,!1)
 D.na=new B.op(0,"threeLine")
-D.Ep=new B.op(1,"titleHeight")
-D.Eq=new B.op(2,"top")
+D.Eo=new B.op(1,"titleHeight")
+D.Ep=new B.op(2,"top")
 D.nb=new B.op(3,"center")
-D.Er=new B.op(4,"bottom")
+D.Eq=new B.op(4,"bottom")
 D.cN=new B.iD(0,"leading")
 D.bp=new B.iD(1,"title")
 D.ca=new B.iD(2,"subtitle")
 D.dE=new B.iD(3,"trailing")
-D.Fh=A.b(x([D.cN,D.bp,D.ca,D.dE]),A.ab("r<iD>"))
-D.Pf=new A.n(!0,C.k,null,null,null,null,null,C.V,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-D.PP=new A.n(!0,null,null,null,null,null,18,C.V,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-D.VG=new B.aff(0,"elevated")})();(function lazyInitializers(){var x=a.lazyFinal
-x($,"aPa","azp",()=>A.iV(C.iT))
-x($,"aP9","azo",()=>A.iV(C.ci))
-x($,"aPb","azq",()=>A.fw(0,0.5,A.ab("I")))
-x($,"aQP","aAl",()=>{var w=null,v=A.ab("r<hL>"),u=y.N,t=A.ab("F<hL>")
+D.Fg=A.b(x([D.cN,D.bp,D.ca,D.dE]),A.ab("r<iD>"))
+D.Pe=new A.n(!0,C.k,null,null,null,null,null,C.V,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+D.PO=new A.n(!0,null,null,null,null,null,18,C.V,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+D.VF=new B.aff(0,"elevated")})();(function lazyInitializers(){var x=a.lazyFinal
+x($,"aPc","azp",()=>A.iV(C.iT))
+x($,"aPb","azo",()=>A.iV(C.ci))
+x($,"aPd","azq",()=>A.fw(0,0.5,A.ab("I")))
+x($,"aQT","aAn",()=>{var w=null,v=A.ab("r<hL>"),u=y.N,t=A.ab("F<hL>")
 return A.al(["Core ML/AI",A.al(["Programming & ML",A.b([B.fo("Expert with 15+ years experience","Python",95),B.fo(w,"PyTorch/TensorFlow",90),B.fo(w,"Statistical Modeling",90)],v),"Generative AI",A.b([B.fo("Author of bestselling LangChain book","LLMs/GenAI",95),B.fo(w,"LangChain",90),B.fo(w,"Custom Embeddings",85)],v)],u,t),"Infrastructure",A.al(["Cloud",A.b([B.fo(w,"Google Cloud",85),B.fo(w,"AWS",85),B.fo(w,"Airflow",85)],v),"Data",A.b([B.fo(w,"SQL",90),B.fo(w,"Snowflake",85),B.fo(w,"Data Mining",85)],v)],u,t),"Domain Expertise",A.al(["Core",A.b([B.fo("Implemented at scale across multiple companies","A/B Testing",95),B.fo("Author of ML for Time Series book","Time Series",90),B.fo(w,"Computer Vision",85)],v)],u,t)],u,A.ab("ax<k,F<hL>>"))})})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_9",e:"endPart",h:b})})($__dart_deferred_initializers__,"k4TRqiU+KH5yJRzzUnjHFNtBKDQ=");
+a.eventLog.push({p:"main.dart.js_9",e:"endPart",h:b})})($__dart_deferred_initializers__,"LQhTucqNPoIOul+dfiYqAK9ie3U=");

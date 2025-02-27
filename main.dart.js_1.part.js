@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_1",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,D={
-aDm(){return new D.lM(null)},
+aDo(){return new D.lM(null)},
 lM:function lM(d){this.a=d},
 a1B:function a1B(){},
 a1C:function a1C(){},
@@ -25,17 +25,17 @@ H=c[16]
 D.lM.prototype={
 gtY(){return"AI/ML Consulting - "+$.EP},
 gtX(){return"Senior AI/ML Consultant and Technical Leader specializing in enterprise-scale AI transformation, MLOps architecture, and GenAI implementation. Author of bestselling technical books and recognized expert in scalable ML solutions."},
-on(d){var x="Transforming Business Through AI",w=null,v="Transforming businesses through enterprise-scale AI solutions that deliver measurable impact. From fraud detection systems saving millions to real-time decision engines processing 100k+ daily transactions, I bring deep technical expertise and practical business acumen to every project.",u="As a PhD computer scientist turned industry leader, I combine deep technical expertise with practical business strategy to help organizations succeed in their AI journey.",t=A.bh(x,w,w,$.VV(),w),s=A.bh(v,w,w,C.PZ,w),r=A.cW(this.a_C(A.b(["Built enterprise-scale fraud detection systems preventing millions in annual losses","Developed real-time ML decision engine processing 100k+ daily transactions at <300ms latency","Improved marketing ROI by 15% through ML-driven optimization at a major travel platform","Published bestselling books on GenAI and ML implementation with 100k+ in sales"],y.h)),B.ac,B.F,B.G),q=A.bh(u,w,w,F.aJ,w),p=y.e,o=A.b([new A.bc(new E.bO("Strategic AI Consulting",B.bz),A.bh("Strategic AI Consulting:",w,w,$.pW(),w),w),B.cE],p),n=this.ga_Y(),m=y.i
-B.b.P(o,new A.a_(C.F5,n,m))
+on(d){var x="Transforming Business Through AI",w=null,v="Transforming businesses through enterprise-scale AI solutions that deliver measurable impact. From fraud detection systems saving millions to real-time decision engines processing 100k+ daily transactions, I bring deep technical expertise and practical business acumen to every project.",u="As a PhD computer scientist turned industry leader, I combine deep technical expertise with practical business strategy to help organizations succeed in their AI journey.",t=A.bh(x,w,w,$.VV(),w),s=A.bh(v,w,w,C.PY,w),r=A.cW(this.a_C(A.b(["Built enterprise-scale fraud detection systems preventing millions in annual losses","Developed real-time ML decision engine processing 100k+ daily transactions at <300ms latency","Improved marketing ROI by 15% through ML-driven optimization at a major travel platform","Published bestselling books on GenAI and ML implementation with 100k+ in sales"],y.h)),B.ac,B.F,B.G),q=A.bh(u,w,w,F.aJ,w),p=y.e,o=A.b([new A.bc(new E.bO("Strategic AI Consulting",B.bz),A.bh("Strategic AI Consulting:",w,w,$.pW(),w),w),B.cE],p),n=this.ga_Y(),m=y.i
+B.b.P(o,new A.a_(C.F4,n,m))
 o.push(B.aH)
 o.push(new A.bc(new E.bO("AI Leadership & Education",B.bz),A.bh("AI Leadership & Education:",w,w,$.pW(),w),w))
 o.push(B.cE)
-B.b.P(o,new A.a_(C.FT,n,m))
+B.b.P(o,new A.a_(C.FS,n,m))
 return A.cW(A.b([new A.bc(new E.bO(x,B.eP),t,w),I.bl,new A.bc(new E.bO(v,B.ao),s,w),B.aH,r,B.aH,new A.bc(new E.bO(u,B.ao),q,w),B.aH,A.cW(o,B.ac,B.F,B.G),K.hK,A.bh("Let's transform your AI strategy!",w,w,F.aJ,w),B.aH,A.hl(this.a_G(),w,w)],p),B.ac,B.F,B.G)},
 a_C(d){var x=A.V(d).h("a_<1,cj>")
 return A.a4(new A.a_(d,new D.a1B(),x),!0,x.h("aM.E"))},
 a_Z(d){var x=null,w=d.b
-return new A.bc(new E.bO(w,B.ao),new A.cj(G.fw,A.apo(A.fm(A.b([new A.eZ(d.a,24,B.a4,x),C.Mf,A.wT(A.bh(w,x,x,C.R2,x))],y.e),B.U,B.F,B.G),d.c),x),x)},
+return new A.bc(new E.bO(w,B.ao),new A.cj(G.fw,A.apo(A.fm(A.b([new A.eZ(d.a,24,B.a4,x),C.Me,A.wT(A.bh(w,x,x,C.R1,x))],y.e),B.U,B.F,B.G),d.c),x),x)},
 a_G(){var x=null,w=A.anH(B.a4,2),v=A.iO(30)
 return new A.bc(new D.Ip("Contact for AI/ML Consulting","mailto:ben@benauffarth.com",x),A.ez(x,A.I6(!1,!0,A.fm(A.b([new A.eZ(B.n0,20,B.a4,x),B.hJ,A.bh("Get in Touch!",x,x,A.ft(x,x,B.a4,x,x,x,x,x,x,x,x,16,x,x,B.fJ,x,x,!0,x,x,x,x,x,x,x,x),x)],y.e),B.U,B.F,B.c1),x,!0,x,x,x,x,x,x,x,x,x,new D.a1C(),x,x,x,x),B.u,x,x,new A.cI(x,x,w,v,x,x,B.aq),x,x,x,C.Db,x,x,x),x)}}
 D.fn.prototype={}
@@ -57,23 +57,23 @@ x(D.Ip,A.td)})()
 A.uY(b.typeUniverse,JSON.parse('{"lM":{"ah":[],"h":[]}}'))
 var y={k:A.ab("r<fn>"),h:A.ab("r<k>"),e:A.ab("r<h>"),i:A.ab("a_<fn,h>")};(function constants(){var x=a.makeConstList
 C.Db=new A.az(32,12,32,12)
-C.KV=new D.fn(H.n_,"Enterprise AI Strategy","Develop comprehensive AI strategies aligned with business goals and ROI targets")
-C.DQ=new A.cs(58751,"MaterialIcons",null,!1)
-C.L1=new D.fn(C.DQ,"MLOps & System Architecture","Design scalable, production-ready ML systems and infrastructure")
-C.DN=new A.cs(58502,"MaterialIcons",null,!1)
-C.KW=new D.fn(C.DN,"Technical Leadership","Build and lead high-performing AI/ML teams with industry best practices")
-C.L_=new D.fn(B.DP,"AI Due Diligence","Evaluate AI/ML systems, architectures, and implementation strategies")
-C.F5=A.b(x([C.KV,C.L1,C.KW,C.L_]),y.k)
-C.DO=new A.cs(58713,"MaterialIcons",null,!1)
-C.KX=new D.fn(C.DO,"Executive AI Training","Strategic workshops for leadership teams on AI transformation")
-C.DT=new A.cs(59007,"MaterialIcons",null,!0)
-C.KY=new D.fn(C.DT,"Team Capability Building","Structured programs to build world-class AI/ML teams")
-C.KZ=new D.fn(H.n1,"Technical Advisory","Expert guidance on AI implementation and best practices")
-C.DL=new A.cs(58337,"MaterialIcons",null,!1)
-C.L0=new D.fn(C.DL,"Industry Speaking","Keynotes and workshops on cutting-edge AI topics")
-C.FT=A.b(x([C.KX,C.KY,C.KZ,C.L0]),y.k)
-C.Mf=new A.dX(12,null,null,null)
-C.PZ=new A.n(!0,B.d6,null,null,null,null,18,B.V,null,null,null,null,1.6,null,null,null,null,null,null,null,null,null,null,null,null,null)
-C.R2=new A.n(!0,B.d6,null,null,null,null,16,null,null,null,null,null,1.5,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
+C.KU=new D.fn(H.n_,"Enterprise AI Strategy","Develop comprehensive AI strategies aligned with business goals and ROI targets")
+C.DP=new A.cs(58751,"MaterialIcons",null,!1)
+C.L0=new D.fn(C.DP,"MLOps & System Architecture","Design scalable, production-ready ML systems and infrastructure")
+C.DM=new A.cs(58502,"MaterialIcons",null,!1)
+C.KV=new D.fn(C.DM,"Technical Leadership","Build and lead high-performing AI/ML teams with industry best practices")
+C.KZ=new D.fn(B.DO,"AI Due Diligence","Evaluate AI/ML systems, architectures, and implementation strategies")
+C.F4=A.b(x([C.KU,C.L0,C.KV,C.KZ]),y.k)
+C.DN=new A.cs(58713,"MaterialIcons",null,!1)
+C.KW=new D.fn(C.DN,"Executive AI Training","Strategic workshops for leadership teams on AI transformation")
+C.DS=new A.cs(59007,"MaterialIcons",null,!0)
+C.KX=new D.fn(C.DS,"Team Capability Building","Structured programs to build world-class AI/ML teams")
+C.KY=new D.fn(H.n1,"Technical Advisory","Expert guidance on AI implementation and best practices")
+C.DK=new A.cs(58337,"MaterialIcons",null,!1)
+C.L_=new D.fn(C.DK,"Industry Speaking","Keynotes and workshops on cutting-edge AI topics")
+C.FS=A.b(x([C.KW,C.KX,C.KY,C.L_]),y.k)
+C.Me=new A.dX(12,null,null,null)
+C.PY=new A.n(!0,B.d6,null,null,null,null,18,B.V,null,null,null,null,1.6,null,null,null,null,null,null,null,null,null,null,null,null,null)
+C.R1=new A.n(!0,B.d6,null,null,null,null,16,null,null,null,null,null,1.5,null,null,null,null,null,null,null,null,null,null,null,null,null)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"gtk9fnt0xLS7pGv4iDbKv2pRGkc=");
+a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"n0mMbTDKHdxYqDz6CmXm9AEUP1I=");
