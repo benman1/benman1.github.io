@@ -86,6 +86,9 @@
 
   <!-- Google Tag Manager -->
   <script>
+    // Force CanvasKit renderer for better image transparency support
+    window.flutterWebRenderer = "canvaskit";
+
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
